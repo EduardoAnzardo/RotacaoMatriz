@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-import javax.lang.model.util.ElementScanner6;
-import javax.lang.model.util.ElementScanner7;
-
 public class Main {
     public static void main(String[] args) {
     

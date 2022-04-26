@@ -40,7 +40,7 @@ public class Main {
             }
             else
         if (rotacao != +0+ +90+ +180+ +270+ +360){
-            System.out.println("Esse angulo não existe");
+            System.out.println("Esse angulo não foi aceito");
         }
     }
 }
